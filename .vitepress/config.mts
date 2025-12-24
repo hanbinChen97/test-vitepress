@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   lang: 'zh-CN',
   title: "上海安保服务集团",
+  base: '/test-vitepress/',
   description: "专业的安保服务提供商，为您提供全方位的安全解决方案",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
