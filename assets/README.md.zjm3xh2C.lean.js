@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as e,a0 as l}from"./chunks/framework.CdZHoz6C.js";const c=JSON.parse('{"title":"上海安保服务集团网站项目","description":"","frontmatter":{},"headers":[],"relativePath":"README.md","filePath":"README.md"}'),n={name:"README.md"};function t(h,a,p,d,o,r){return e(),i("div",null,[...a[0]||(a[0]=[l("",46)])])}const g=s(n,[["render",t]]);export{c as __pageData,g as default};
